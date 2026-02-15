@@ -12,16 +12,7 @@
 
 ---
 
-## 📊 GitHub Activity
 
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=saalick&theme=tokyonight)](https://git.io/streak-stats)
-
-
-</div>
-
----
 
 ## 🚀 About Me
 
@@ -39,6 +30,16 @@ I'm a **BSc student in AI & Data Science** with a diverse technical journey span
 
 ---
 
+## 📊 GitHub Activity
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=saalick&theme=tokyonight)](https://git.io/streak-stats)
+
+
+</div>
+
+---
 
 ## 🛠️ Tech Stack
 
