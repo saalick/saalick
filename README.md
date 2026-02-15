@@ -12,6 +12,17 @@
 
 ---
 
+## 📊 GitHub Activity
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=saalick&theme=tokyonight)](https://git.io/streak-stats)
+
+
+</div>
+
+---
+
 ## 🚀 About Me
 
 I'm a **BSc student in AI & Data Science** with a diverse technical journey spanning **blockchain development, web3 applications, full-stack web development, and quantitative finance**. My work bridges **ML theory** and **practical applications** across multiple domains.
@@ -27,41 +38,6 @@ I'm a **BSc student in AI & Data Science** with a diverse technical journey span
 - 🔬 Researching **optimization theory, generalization, financial econometrics**
 
 ---
-
-## 💼 Featured Work
-
-### 🏆 [Quantitative Trading ML System](https://github.com/saalick/Quantitative-Trading-ML-System)
-LSTM-based trading system achieving 73% directional accuracy. Production-deployed, serving users globally.
-
-**Stack:** PyTorch · Scikit-learn · Pandas · NumPy  
-**Metrics:** 1.85 Sharpe · 12.3% Max Drawdown · 847 trades
-
-**Research:** Why does an over-parameterized model (500k params, 10k samples) generalize well?
-
----
-
-### 📈 [Time-Series Forecasting Benchmark](https://github.com/saalick/Time-Series-Forecasting-Benchmark)
-Comparative analysis of ARIMA, LSTM, Prophet, and Transformer models on financial data.
-
-**Key insight:** Bridging classical statistics with modern ML approaches
-
----
-
-### ⛓️ [AgriVerse Web App](https://github.com/saalick/agriversewebapp)
-Web3 application for agricultural supply chain transparency using blockchain technology.
-
-**Stack:** JavaScript · React · Web3.js · Smart Contracts
-
----
-
-
-
-
-### 🔥 [Burnzy](https://github.com/saalick/Burnzy)
-Blockchain token burning analytics and tracking system.
-
-**Stack:** Python · Blockchain APIs
-
 
 
 ## 🛠️ Tech Stack
@@ -104,16 +80,6 @@ Exploring fundamental questions at the intersection of theory and practice:
 
 ---
 
-## 📊 GitHub Activity
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=saalick&theme=tokyonight)](https://git.io/streak-stats)
-
-
-</div>
-
----
 
 
 ## 🎯 What I'm Working On
