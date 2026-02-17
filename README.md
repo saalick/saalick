@@ -4,7 +4,7 @@
 
 **AI & Data Science Student | Quantitative Researcher | Blockchain Developer | International Speaker**
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](YOUR_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/salickr)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=google-chrome&logoColor=white)](YOUR_PORTFOLIO)
 
@@ -22,11 +22,7 @@ I'm a **BSc student in AI & Data Science** with a diverse technical journey span
 - 🌐 Started: **Web Development** (React, Node.js, full-stack apps)
 - ⛓️ Evolved: **Blockchain & Web3** (Smart contracts, dApps, DeFi)
 - 🔬 Now: **ML for Finance** (Trading systems, time-series, theory)
-
-**Current Impact:**
-- 📊 Deployed trading system: **73% accuracy**, serving **20+ users** across **11+ countries**
 - 🎤 International speaker: **UN Bangkok, Uzbekistan, Malaysia**
-- 🔬 Researching **optimization theory, generalization, financial econometrics**
 
 ---
 
