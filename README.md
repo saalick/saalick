@@ -127,12 +127,14 @@ class Salik:
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="28" /> GitHub Stats
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=saalick&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=8b949e&ring_color=58a6ff" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=saalick&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="Streak Stats"/>
+  <img width="55%" src="https://streak-stats.demolab.com/?user=saalick&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="Streak Stats"/>
 </div>
 
+<br/>
+
 <div align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saalick&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e" alt="Top Languages"/>
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=saalick&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=8b949e&ring_color=58a6ff" alt="GitHub Stats"/>
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=saalick&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e" alt="Top Languages"/>
 </div>
 
 <br/>
@@ -149,10 +151,10 @@ class Salik:
 
 <div align="center">
 <a href="https://github.com/saalick/quant-trading-ml">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=saalick&repo=quant-trading-ml&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=8b949e" alt="Quant Trading ML"/>
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=saalick&repo=quant-trading-ml&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=8b949e" alt="Quant Trading ML"/>
 </a>
 <a href="https://github.com/saalick/AgriVerse">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=saalick&repo=AgriVerse&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=8b949e" alt="AgriVerse"/>
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=saalick&repo=AgriVerse&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=8b949e" alt="AgriVerse"/>
 </a>
 </div>
 
