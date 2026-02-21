@@ -4,9 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=220&section=header&text=Salik%20Riyaz&fontSize=72&fontColor=58a6ff&fontAlignY=35&desc=AI%20%E2%80%A2%20Quant%20Research%20%E2%80%A2%20Web3%20%E2%80%A2%20Speaker&descSize=18&descAlignY=55&descColor=8b949e&animation=fadeIn"/>
 
 <!-- Typing SVG -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Building+ML+trading+systems+with+73%25+accuracy+%F0%9F%93%88;International+speaker+%40+UN+Bangkok+%F0%9F%8C%8F;Open+source+contributor+%7C+FinRL+%C2%B7+Trust+Wallet+%F0%9F%94%A7" alt="Typing SVG" />
-</a>
+
 
 <br/>
 
