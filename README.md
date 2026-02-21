@@ -19,23 +19,7 @@
 
 <br/>
 
-<!-- About Section -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telescope.png" alt="Telescope" width="28" /> About Me
 
-```python
-class Salik:
-    def __init__(self):
-        self.role       = "BSc AI & Data Science Student"
-        self.focus      = ["Quantitative Research", "ML Systems", "Web3"]
-        self.research   = ["Optimization Theory", "Financial Econometrics", "Learning Theory"]
-        self.impact     = {"users_served": "20+", "countries": "multiple", "accuracy": "73%"}
-        self.speaking   = ["UN Bangkok 🇹🇭", "Uzbekistan 🇺🇿", "Malaysia 🇲🇾"]
-        
-    def current_quest(self):
-        return "Building institutional-grade ML trading systems & contributing to open source"
-```
-
-<br/>
 
 <!-- Tech Stack with Visual Cards -->
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="28" /> Tech Arsenal
@@ -134,7 +118,7 @@ class Salik:
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=saalick&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=8b949e&ring_color=58a6ff" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=saalick&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e" alt="Top Languages"/>
+ 
 </div>
 
 <br/>
@@ -146,31 +130,9 @@ class Salik:
 
 <br/>
 
-<!-- Featured Projects -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gem%20Stone.png" alt="Gem" width="28" /> Featured Work
 
-<div align="center">
-<a href="https://github.com/saalick/quant-trading-ml">
-  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=saalick&repo=quant-trading-ml&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=8b949e" alt="Quant Trading ML"/>
-</a>
-<a href="https://github.com/saalick/AgriVerse">
-  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=saalick&repo=AgriVerse&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=8b949e" alt="AgriVerse"/>
-</a>
-</div>
 
-> **Note:** Update the repo names above to match your actual repository names on GitHub.
 
-<br/>
-
-<!-- Open Source -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="28" /> Open Source Contributions
-
-| Project | Contribution | Impact |
-|---------|-------------|--------|
-| **[FinRL](https://github.com/AI4Finance-Foundation/FinRL)** | Added Williams %R technical indicator | Enhanced financial RL toolkit |
-| **[Trust Wallet](https://github.com/niclas9/niclas-core)** | Core contributions | Improved wallet functionality |
-
-<br/>
 
 <!-- Speaking -->
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Studio%20Microphone.png" alt="Mic" width="28" /> Speaking & Impact
