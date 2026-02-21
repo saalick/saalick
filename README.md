@@ -1,113 +1,216 @@
 <div align="center">
 
-# 👋 Hi, I'm Salik
+<!-- Animated Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=220&section=header&text=Salik%20Riyaz&fontSize=72&fontColor=58a6ff&fontAlignY=35&desc=AI%20%E2%80%A2%20Quant%20Research%20%E2%80%A2%20Web3%20%E2%80%A2%20Speaker&descSize=18&descAlignY=55&descColor=8b949e&animation=fadeIn"/>
 
-**AI & Data Science Student | Quantitative Researcher | Blockchain Developer | International Speaker**
+<!-- Typing SVG -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Building+ML+trading+systems+with+73%25+accuracy+%F0%9F%93%88;International+speaker+%40+UN+Bangkok+%F0%9F%8C%8F;Open+source+contributor+%7C+FinRL+%C2%B7+Trust+Wallet+%F0%9F%94%A7" alt="Typing SVG" />
+</a>
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/salickr)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=google-chrome&logoColor=white)](YOUR_PORTFOLIO)
+<br/>
 
-</div>
-
----
-
-
-
-## 🚀 About Me
-
-I'm a **BSc student in AI & Data Science** with a diverse technical journey spanning **blockchain development, web3 applications, full-stack web development, and quantitative finance**. My work bridges **ML theory** and **practical applications** across multiple domains.
-
-**Journey:**
-- 🌐 Started: **Web Development** (React, Node.js, full-stack apps)
-- ⛓️ Evolved: **Blockchain & Web3** (Smart contracts, dApps, DeFi)
-- 🔬 Now: **ML for Finance** (Trading systems, time-series, theory)
-- 🎤 International speaker: **UN Bangkok, Uzbekistan, Malaysia**
-
----
-
-## 📊 GitHub Activity
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=saalick&theme=tokyonight)](https://git.io/streak-stats)
-
+<!-- Quick Links -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/salickr)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@salikriyaz.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](YOUR_PORTFOLIO)
 
 </div>
 
----
+<br/>
 
-## 🛠️ Tech Stack
+<!-- About Section -->
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telescope.png" alt="Telescope" width="28" /> About Me
 
-**Languages:** Python · JavaScript · TypeScript · Solidity · HTML/CSS · SQL
+```python
+class Salik:
+    def __init__(self):
+        self.role       = "BSc AI & Data Science Student"
+        self.focus      = ["Quantitative Research", "ML Systems", "Web3"]
+        self.research   = ["Optimization Theory", "Financial Econometrics", "Learning Theory"]
+        self.impact     = {"users_served": "20+", "countries": "multiple", "accuracy": "73%"}
+        self.speaking   = ["UN Bangkok 🇹🇭", "Uzbekistan 🇺🇿", "Malaysia 🇲🇾"]
+        
+    def current_quest(self):
+        return "Building institutional-grade ML trading systems & contributing to open source"
+```
 
-**ML/AI:** PyTorch · TensorFlow · Scikit-learn · XGBoost · ARIMA · LSTM · Transformers
+<br/>
 
-**Blockchain:** Solidity · Web3.js · Ethers.js · Smart Contracts · DApps · ERC-20/721
+<!-- Tech Stack with Visual Cards -->
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="28" /> Tech Arsenal
 
-**Web Dev:** React · Node.js · Express · MongoDB · REST APIs · WebSocket
+<div align="center">
+<table>
+<tr>
+<td align="center" width="50%">
 
-**Data:** Pandas · NumPy · Matplotlib · SQL · Time-series analysis
+### 🧠 AI / ML
+<br/>
 
-**Finance:** Technical analysis · Backtesting · Risk management · Quantitative modeling
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=dark" alt="ML"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/XGBoost-189FDD?style=flat-square&logo=xgboost&logoColor=white" alt="XGBoost"/>
+<img src="https://img.shields.io/badge/LSTM-FF6F00?style=flat-square&logo=keras&logoColor=white" alt="LSTM"/>
+<img src="https://img.shields.io/badge/Transformers-FFD700?style=flat-square&logo=huggingface&logoColor=black" alt="Transformers"/>
+<img src="https://img.shields.io/badge/ARIMA-4B8BBE?style=flat-square&logo=scipy&logoColor=white" alt="ARIMA"/>
 
-**Dev Tools:** Git · Docker · AWS · GCP · Jupyter · VS Code
+<br/><br/>
+</td>
+<td align="center" width="50%">
 
----
+### 📈 Quant Finance
+<br/>
 
-## 🔬 Research Interests
+<img src="https://img.shields.io/badge/Backtesting-00C853?style=flat-square&logo=tradingview&logoColor=white" alt="Backtesting"/>
+<img src="https://img.shields.io/badge/Risk_Mgmt-FF1744?style=flat-square&logo=chartdotjs&logoColor=white" alt="Risk"/>
+<img src="https://img.shields.io/badge/Technical_Analysis-2962FF?style=flat-square&logo=tradingview&logoColor=white" alt="TA"/>
+<br/>
+<img src="https://img.shields.io/badge/NinjaTrader-1A1A2E?style=flat-square&logo=windows-terminal&logoColor=white" alt="NinjaTrader"/>
+<img src="https://img.shields.io/badge/Order_Flow-7B1FA2?style=flat-square&logo=databricks&logoColor=white" alt="Order Flow"/>
+<img src="https://img.shields.io/badge/Quant_Modeling-FF6D00?style=flat-square&logo=wolfram&logoColor=white" alt="Quant"/>
 
-Exploring fundamental questions at the intersection of theory and practice:
+<br/><br/>
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
 
-**Optimization Theory**
-- Why does SGD converge with chosen hyperparameters?
-- Can we derive theoretical learning rate schedules?
+### ⛓️ Blockchain / Web3
+<br/>
 
-**Generalization**
-- Why do over-parameterized models (p >> n) work in finance?
-- Sample complexity bounds for time-series prediction
+<img src="https://skillicons.dev/icons?i=solidity&theme=dark" alt="Solidity"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/Web3.js-F16822?style=flat-square&logo=web3dotjs&logoColor=white" alt="Web3.js"/>
+<img src="https://img.shields.io/badge/Ethers.js-2535A0?style=flat-square&logo=ethereum&logoColor=white" alt="Ethers"/>
+<img src="https://img.shields.io/badge/Smart_Contracts-3C3C3D?style=flat-square&logo=ethereum&logoColor=white" alt="Smart Contracts"/>
+<br/>
+<img src="https://img.shields.io/badge/ERC--20-627EEA?style=flat-square&logo=ethereum&logoColor=white" alt="ERC20"/>
+<img src="https://img.shields.io/badge/ERC--721-627EEA?style=flat-square&logo=ethereum&logoColor=white" alt="ERC721"/>
+<img src="https://img.shields.io/badge/DApps-F0B90B?style=flat-square&logo=binance&logoColor=black" alt="DApps"/>
 
-**Financial Econometrics**
-- Quantile regression for tail risk modeling
-- GARCH + neural network integration
+<br/><br/>
+</td>
+<td align="center" width="50%">
 
-**Blockchain-Finance Intersection**
-- Decentralized finance (DeFi) analytics
-- On-chain ML for trading strategies
+### 🌐 Full Stack
+<br/>
 
----
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,ts&theme=dark" alt="Web"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/REST_APIs-009688?style=flat-square&logo=fastapi&logoColor=white" alt="REST"/>
+<img src="https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=socketdotio&logoColor=white" alt="WebSocket"/>
 
+<br/><br/>
+</td>
+</tr>
+</table>
+</div>
 
-
-## 🎯 What I'm Working On
-
-- 🔬 Building ML research projects exploring theory-practice gaps
-- 📚 Reading: Optimization theory, financial econometrics, learning theory
-- 💡 Developing: Quantile regression toolkit, optimization visualizers
-- 🎤 Preparing: Research proposals connecting theory to trading systems
-- 🌐 Exploring: Intersection of blockchain and quantitative finance
-
----
-
-
-
-## 📫 Get in Touch
-
-Open to:
-- Research collaborations (ML theory, finance)
-- Internship/full-time opportunities in quant research or ML engineering
-- Speaking engagements at conferences or universities
-- Open-source contributions and partnerships
-- Discussions on ML, finance, blockchain, or web3
-
-**Email:** contact@salikriyaz.com | **LinkedIn:** https://linkedin.com/in/salickr
-
----
+<br/>
 
 <div align="center">
 
-*"From web apps to smart contracts to trading algorithms — continuously exploring the frontiers of technology"*
+### 🔧 Languages & Tools
 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=saalick.saalick)
+<img src="https://skillicons.dev/icons?i=python,js,ts,solidity,html,css&theme=dark" alt="Languages"/>
+<br/>
+<img src="https://skillicons.dev/icons?i=git,docker,aws,gcp,vscode,linux&theme=dark" alt="Tools"/>
+<br/>
+<img src="https://skillicons.dev/icons?i=pandas,numpy,matplotlib&perline=6&theme=dark" alt="Data" />
+
+</div>
+
+<br/>
+
+<!-- GitHub Stats -->
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="28" /> GitHub Stats
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=saalick&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=8b949e&ring_color=58a6ff" alt="GitHub Stats"/>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=saalick&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="Streak Stats"/>
+</div>
+
+<div align="center">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saalick&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e" alt="Top Languages"/>
+</div>
+
+<br/>
+
+<!-- Activity Graph -->
+<div align="center">
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=saalick&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&area_color=1f6feb" alt="Activity Graph"/>
+</div>
+
+<br/>
+
+<!-- Featured Projects -->
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gem%20Stone.png" alt="Gem" width="28" /> Featured Work
+
+<div align="center">
+<a href="https://github.com/saalick/quant-trading-ml">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=saalick&repo=quant-trading-ml&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=8b949e" alt="Quant Trading ML"/>
+</a>
+<a href="https://github.com/saalick/AgriVerse">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=saalick&repo=AgriVerse&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=8b949e" alt="AgriVerse"/>
+</a>
+</div>
+
+> **Note:** Update the repo names above to match your actual repository names on GitHub.
+
+<br/>
+
+<!-- Open Source -->
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="28" /> Open Source Contributions
+
+| Project | Contribution | Impact |
+|---------|-------------|--------|
+| **[FinRL](https://github.com/AI4Finance-Foundation/FinRL)** | Added Williams %R technical indicator | Enhanced financial RL toolkit |
+| **[Trust Wallet](https://github.com/niclas9/niclas-core)** | Core contributions | Improved wallet functionality |
+
+<br/>
+
+<!-- Speaking -->
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Studio%20Microphone.png" alt="Mic" width="28" /> Speaking & Impact
+
+<div align="center">
+
+🇹🇭 **UN Bangkok** · AI & Sustainable Development &nbsp;&nbsp;|&nbsp;&nbsp; 🇺🇿 **Uzbekistan** · Technology & Innovation &nbsp;&nbsp;|&nbsp;&nbsp; 🇲🇾 **Malaysia** · AI Applications
+
+</div>
+
+<br/>
+
+<!-- Connect -->
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Incoming%20Envelope.png" alt="Mail" width="28" /> Let's Connect
+
+<div align="center">
+
+**Open to research collaborations, quant roles, speaking engagements, and open-source partnerships.**
+
+<br/>
+
+[![Email](https://img.shields.io/badge/contact@salikriyaz.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@salikriyaz.com)
+[![LinkedIn](https://img.shields.io/badge/salickr-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/salickr)
+
+</div>
+
+<br/>
+
+<!-- Snake Animation -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saalick/saalick/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/saalick/saalick/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/saalick/saalick/output/github-snake-dark.svg" />
+  </picture>
+</div>
+
+<!-- Footer -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=120&section=footer"/>
+
+<div align="center">
+  
+![Visitors](https://komarev.com/ghpvc/?username=saalick&color=1f6feb&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
